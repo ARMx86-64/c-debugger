@@ -1,5 +1,5 @@
-# DEAD SIMPLE C-DEBUGGER
+# DEAD SIMPLE C LOGGER/DEBUGGER(?)
 
-Simple C debugger, mostly done for two purpouses:
+Simple C logger/debugger, mostly done for two purpouses:
 - probably will reuse it in any other C projects
 - simply learning
